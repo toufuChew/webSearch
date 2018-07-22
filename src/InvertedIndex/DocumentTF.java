@@ -9,6 +9,7 @@ import java.util.HashMap;
  * @author chenqiu
  *
  */
+@Deprecated
 public class DocumentTF {
     private HashMap<String, Integer> termfrequence;
     public DocumentTF(){
